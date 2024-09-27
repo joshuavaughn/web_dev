@@ -1,0 +1,36 @@
+
+<table> 
+    <thead>
+        <tr>
+            <th> Title </th>
+            <th> Price </th>
+            <th> Available </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td> Rebisco Choco </td> 
+            <td> $3 </td>
+            <td> 100 </td>
+        </tr>
+        <tr>
+            <td> Fanta Lite </td> 
+            <td> $100 </td>
+            <td> 10 </td>
+        </tr>
+        <tr>
+            <td> J1s </td>
+            <td> $400 </td>
+            <td> 1 </td>
+        </tr>
+
+    </tbody>
+        <tfoot>
+            <tr>
+                <td> Total stock </td>
+                <td></td>
+                <td> 111 </td>
+            </tr>
+        </tfoot>
+    </table>
